@@ -1,0 +1,63 @@
+/* RANDOM */
+
+*{
+    margin: 60;
+  
+    
+  }
+  
+  
+  
+  
+  
+  
+  /* BODY */
+  body {
+    background-color: aqua;
+    
+  }
+  
+  header h1 {
+    font-weight: bold;
+    font-family: 'Roboto', black;
+    margin-left: auto;
+    max-width: 294px;
+    
+    font-size: 48px;
+    
+  
+  }
+  
+  header p {
+    font-family: 'Open Sans';
+    font-size: 20px;
+    max-width: 450px;
+    
+    line-height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  ul li {
+    font-family: 'Roboto';
+    display: flex;
+  
+  }
+  
+  li {
+    max-width: 267px;
+  
+    margin-left: auto;
+    font-size: 30px; 
+    
+    
+  }
+  
+  
+  
+  
